@@ -1,13 +1,7 @@
 My name is yogini.changed
 
-<!--
-## Errata
--->
-<!--
-* Page 9 (Paragraph 1, line 4): **abc** _should be_ **xyz**
-* Page 229 (Figure 2):
+
+Page 9 (Paragraph 1, line 4): "python 3.7" should be "python 3"
+
 <img
-src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a
-6/b/0/b05684_cover.png" height="256px" align="center"> _should be_ <img
-src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a
-6/9/7/9781789136364-original.png" height="256px" align="center">
+src="C:\Users\Yoginee\Desktop\Figure 01.02_B09142.png" height="256px" align="center">
